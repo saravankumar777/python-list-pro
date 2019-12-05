@@ -1,0 +1,12 @@
+a=4
+b=10
+c='6'
+print(type(a))
+print(type(b))
+print(type(c))
+d=float(a)
+print(type(d))
+e=str(b)
+print(type(e))
+f=int(c)
+print(type(c))
